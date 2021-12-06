@@ -39,7 +39,7 @@ versions:
   - sha: 16f09061f5e70563f10d4aa9f0a1b9412e19f35c
     changeNotes: Update logo
   - sha: ff7bf31a0777e22a370d6371607022fe2a6d1b7c
-    changeNotes: |2
+    changeNotes: |2.
       Add support for "consent" command.
       Add support for using a variable to populate object properties.
   - sha: e1206f9c677fe67348c6678c4669952cb0c0b97b
